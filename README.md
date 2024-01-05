@@ -1,2 +1,2 @@
 # Primes-In
-Tells you the number of primes in between two numbers (excluding the two numbers)
+Asks for two numbers and tells you the amount of primes in between them (excluding the two numbers themselves).
